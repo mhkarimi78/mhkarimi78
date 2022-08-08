@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on react native
+- 🔭 I’m currently working on react and react native
 - 🌱 I’m currently learning CE in shahid beheshti university
-- 💬 Ask me about RN
+- 💬 Ask me about R&RN
 - 📫 How to reach me: mahsaTech
 - ⚡ Fun fact: i love Iron Man
 
