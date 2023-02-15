@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahsa karimi</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
+<img 
+     align="right" alt="Coding" width="400" 
+     src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwiUkfienpf9AhWVT6QEHdRlBPgQMygGegUIARD8AQ..i&docid=hkdl7LLQcswitM&w=500&h=350&q=animated%20coding%20gif%20girl&ved=2ahUKEwiUkfienpf9AhWVT6QEHdRlBPgQMygGegUIARD8AQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi78&label=Profile%20views&color=0e75b6&style=flat" alt="mhkarimi78" /> </p>
 
