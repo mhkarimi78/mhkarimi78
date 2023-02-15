@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhkarimi78&label=Profile%20views&color=0e75b6&style=flat" alt="mhkarimi78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhkarimi78" alt="mhkarimi78" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/mhskarimi78" target="blank"><img src="https://img.shields.io/twitter/follow/mhskarimi78?logo=twitter&style=for-the-badge" alt="mhskarimi78" /></a> </p>
 
 - 🔭 I’m currently working on [Dappazon](https://github.com/mhkarimi78/dappazon)
