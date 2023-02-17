@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahsa karimi</h1>
+<h1 align="center">Hi 👋, I'm Mahsa karimi </h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
 <img 
      align="right" alt="Coding" width="400" 
