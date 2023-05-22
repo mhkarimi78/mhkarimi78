@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mhskarimi78" target="blank"><img src="https://img.shields.io/twitter/follow/mhskarimi78?logo=twitter&style=for-the-badge" alt="mhskarimi78" /></a> </p>
 
-- 🔭 I’m currently working on [Web3Paypal](https://github.com/mhkarimi78/Web3Paypal)
+- 🔭 I’m currently working on being a blockchain developer
 
 - 🌱 I’m currently learning **Solidity**
 
