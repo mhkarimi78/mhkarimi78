@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on improving my skills as a blockchain developer
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently working on **Ceramic network**
 
 - 💬 Ask me about **React & React-native**
 
