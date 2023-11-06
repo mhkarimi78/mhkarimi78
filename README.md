@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahsa karimi </h1>
-<h3 align="center">A Passionate Blockchain Developer From Iran</h3>
+<h1 align="center">Hi 👋, I'm MahsaMaster </h1>
+<h3 align="center">A Passionate Blockchain Developer </h3>
 <img 
      align="right" alt="Coding" width="400" 
      src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
